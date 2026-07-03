@@ -1,7 +1,7 @@
 # 📊 Shopify Sales Analysis | End-to-End Data Analytics Project
 
 ![Power BI Dashboard][Product Dashboard](<img width="1738" height="732" alt="Shopify -Product Dashboard" src="https://github.com/user-attachments/assets/48d685fa-6aae-4133-943a-72421d29a823" />
-.png)
+
 [Time Analysis Dashboard](<img width="1737" height="637" alt="Shopify - Time Analysis- Dashboard" src="https://github.com/user-attachments/assets/85a1e67d-311f-4198-891d-252f5807ffdb" />
 .png)
 [Payment Method Dashboard](<img width="1683" height="755" alt="Shopify - Payment Analysis - Dashboard" src="https://github.com/user-attachments/assets/16c591bf-e5a8-4ba2-80cd-681edbb5ca44" />
