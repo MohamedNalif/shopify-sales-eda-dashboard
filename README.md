@@ -18,7 +18,7 @@
 ### **Python Visualizations**
 **Category Analysis** <img width="1180" height="666" alt="Revenue Distribution On Product" src="https://github.com/user-attachments/assets/93a5cb48-2201-41cb-a6c0-4ad80c17d730" />
 
-** Monthly Trend** <img width="1367" height="736" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/1e6a8481-b9ba-41f1-8242-4323391bf1d2" />
+**Monthly Trend** <img width="1367" height="736" alt="Monthly Revenue Trend" src="https://github.com/user-attachments/assets/1e6a8481-b9ba-41f1-8242-4323391bf1d2" />
 
 **End-to-End Data Analytics Project** analyzing **60,000+ Shopify transactions** to uncover sales performance, customer behavior, product trends, and regional insights.
 
