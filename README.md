@@ -77,10 +77,10 @@
 shopify-sales-eda-dashboard/
 ├── README.md
 
-├── [shopify.ipynb](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/Shopify.pbix)                    # Complete Python EDA + Analysis
+├──[Shopify.pbix](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/shopify.ipynb)                    # Complete Python EDA + Analysis
 
 ├── [shopify_final_cleaned.csv ](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/shopify_final_cleaned.csv)       # Cleaned Dataset
 
-├── shopify excel Analysis.xlsx      # Excel Analysis & Dashboard
+├── [shopify excel Analysis.xlsx ](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/shopify%20excel%20Analysis.xlsx)     # Excel Analysis & Dashboard
 
-└── [Shopify.pbix](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/shopify.ipynb)                     # Power BI Dashboard
+└── [shopify.ipynb](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/Shopify.pbix)                    # Power BI Dashboard
