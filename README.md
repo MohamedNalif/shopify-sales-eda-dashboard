@@ -74,13 +74,9 @@
 - **Microsoft Excel** (Pivot Tables & Dashboard)
 - **Power BI** (Interactive Dashboard)
 
-## 📂 Project Structure
-```bash
 shopify-sales-eda-dashboard/
 ├── README.md
-├── shopify.ipynb                          # Complete Python EDA + Analysis
-├── shopify_sales_dataset_ml_eda.csv       # Raw Dataset
-├── shopify excel Analysis.xlsx            # Excel Analysis & Dashboard
-├── Shopify.pbix                           # Power BI Dashboard
-├── Images/                                # Screenshots & Visuals
-└── src/                                   # Reusable Python functions (optional)
+├── shopify.ipynb                    # Complete Python EDA + Analysis
+├── shopify_final_cleaned.csv        # Cleaned Dataset
+├── shopify excel Analysis.xlsx      # Excel Analysis & Dashboard
+└── Shopify.pbix                     # Power BI Dashboard
