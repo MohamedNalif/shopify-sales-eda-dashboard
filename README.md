@@ -75,7 +75,8 @@
 - **Power BI** (Interactive Dashboard)
 
 shopify-sales-eda-dashboard/
-├── README.md
+
+├── README.md https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/README.md
 
 ├──[shopify.ipynb](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/shopify.ipynb)]                    # Complete Python EDA + Analysis
 
