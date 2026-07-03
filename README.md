@@ -25,28 +25,41 @@
 ---
 ## 📋 Project Workflow
 
-Data Cleaning – Duplicate removal, data type correction, feature engineering
-Exploratory Data Analysis (EDA) – Univariate, Bivariate & Multivariate
-Statistical Analysis – Descriptive stats, correlations, outlier detection
-Visualization – Python plots, Excel Pivots, Power BI Dashboard
-Insights & Business Recommendations
+-Data Cleaning – Duplicate removal, data type correction, feature engineering
+
+-Exploratory Data Analysis (EDA) – Univariate, Bivariate & Multivariate
+
+-Statistical Analysis – Descriptive stats, correlations, outlier detection
+
+-Visualization – Python plots, Excel Pivots, Power BI Dashboard
+
+-Insights & Business Recommendations
 
 ## 📈 Key Insights
 
-Total Revenue: ~$59.34 Million
-Total Profit: ~$58.69 Million
-Average Profit Margin: 98.91%
-Top Categories: Electronics & Accessories
-Strongest Regions: UAE, USA, Germany
-Return Rate: ~14.81%
+-Total Revenue: ~$59.34 Million
+
+-Total Profit: ~$58.69 Million
+
+-Average Profit Margin: 98.91%
+
+-Top Categories: Electronics & Accessories
+
+-Strongest Regions: UAE, USA, Germany
+
+-Return Rate: ~14.81%
 
 ## 💡 Business Recommendations
 
-Prioritize high-margin categories for inventory
-Optimize shipping costs and logistics
-Implement targeted discount strategies
-Focus marketing on high-performing regions
-Reduce returns through better product quality and descriptions
+-Prioritize high-margin categories for inventory
+
+-Optimize shipping costs and logistics
+
+-Implement targeted discount strategies
+
+-Focus marketing on high-performing regions
+
+-Reduce returns through better product quality and descriptions
 
 ## 🎯 Project Objectives
 - Evaluate overall sales and profitability
