@@ -79,7 +79,7 @@ shopify-sales-eda-dashboard/
 
 ├── [shopify.ipynb](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/Shopify.pbix)                    # Complete Python EDA + Analysis
 
-├── shopify_final_cleaned.csv        # Cleaned Dataset
+├── [shopify_final_cleaned.csv ](https://github.com/MohamedNalif/shopify-sales-eda-dashboard/blob/main/shopify_final_cleaned.csv)       # Cleaned Dataset
 
 ├── shopify excel Analysis.xlsx      # Excel Analysis & Dashboard
 
