@@ -1,6 +1,7 @@
 # 📊 Shopify Sales Analysis | End-to-End Data Analytics Project
 
-![Power BI Dashboard](Images/dashboard-preview.png)
+![Power BI Dashboard](<img width="1738" height="732" alt="Shopify -Product Dashboard" src="https://github.com/user-attachments/assets/48d685fa-6aae-4133-943a-72421d29a823" />
+.png)
 
 **End-to-End Data Analytics Project** analyzing **60,000+ Shopify transactions** to uncover sales performance, customer behavior, product trends, and regional insights.
 
