@@ -3,13 +3,20 @@
 
 **Power BI Dashboard**
 
-**Product Dashboard**<img width="1738" height="732" alt="Shopify -Product Dashboard" src="https://github.com/user-attachments/assets/48d685fa-6aae-4133-943a-72421d29a823" />
+**OverAll Dashboard**<img width="1767" height="723" alt="OverAll" src="https://github.com/user-attachments/assets/ed02f5c8-4a2f-46d2-a95e-d5058ef45ac9" />
 
-**Time Analysis Dashboard**<img width="1737" height="637" alt="Shopify - Time Analysis- Dashboard" src="https://github.com/user-attachments/assets/85a1e67d-311f-4198-891d-252f5807ffdb" />
 
-**Payment Method Dashboard**<img width="1683" height="755" alt="Shopify - Payment Analysis - Dashboard" src="https://github.com/user-attachments/assets/16c591bf-e5a8-4ba2-80cd-681edbb5ca44" />
+**Product Dashboard**<img width="1752" height="737" alt="Product Dashboard" src="https://github.com/user-attachments/assets/d4151f60-3c5b-4287-91e8-db1409b74266" />
 
-**Traffic Source Dashboard**<img width="1675" height="742" alt="Shopify - Advertise Analysis -Dashboad" src="https://github.com/user-attachments/assets/12510e32-7f38-49a2-afd1-d1201e2525cb" />
+
+**Time Analysis Dashboard**<img width="1748" height="651" alt="Time Analysis Dashboard" src="https://github.com/user-attachments/assets/105780ea-ff73-459b-9be2-38e6fe2b9f0c" />
+
+
+**Payment Method Dashboard**<img width="1698" height="757" alt="Payment Dashboard" src="https://github.com/user-attachments/assets/48358751-1d01-4f07-b539-61142694acac" />
+
+
+**Traffic Source Dashboard**<img width="1683" height="752" alt="Advertisement Dashboard" src="https://github.com/user-attachments/assets/fda80dbe-3a72-49eb-b973-aebd0b30951a" />
+
 
 **Excel Dashboard**
 
